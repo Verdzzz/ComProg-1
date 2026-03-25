@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *BTW THIS IS JUST A DUPLICATE FROM THE HELLO WORLD ONE FOR PROPER NAME SUBMISSION
- * @author Abiel Ojedrehve (it's me! ya boyyy soloing and hoping mercy from sirrr)
+ * @author Abiel Ojedrehve (it's me! ya boyyy soloing and hoping mercy from sirrr... Abiel Ojedrehve is my pc name, coach)
  */
 public class Comprog1_TA {
 
