@@ -59,7 +59,7 @@ public class Comprog1_TA {
         double netpay = grossPay - deducTotal;
         
         //Earnings Statement (yippeeee)//
-        System.out.println("---Payment Details--- ");
+        System.out.println("----Payment Details---- ");
         System.out.println("Good Day" + name);
         System.out.println("Gross Salary: " + grossPay);
         System.out.println("Deductions: ");
