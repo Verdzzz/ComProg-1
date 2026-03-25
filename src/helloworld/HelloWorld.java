@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * This is the original File but I duplicated one with a different File for submission's sake.
- * @author Abiel Ojedrehve (it's me! ya boyyy soloing and hoping mercy from sirrr)
+ * @author Abiel Ojedrehve (it's me! ya boyyy soloing and hoping mercy from sirrr.. btw Abiel Ojedrehve is my pc name)
  */
 public class HelloWorld {
 
